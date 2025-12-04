@@ -1,0 +1,17 @@
+{
+  "questions": [
+    {
+      "qnID": 1,
+      "themeID": "1814",
+      "qn": "Hva var Flåteranet i 1807?",
+      "options": [
+        "Napoleon tok den danske flåten",
+        "Britene tok den dansk-norske flåten",
+        "Sverige tok den norske flåten",
+        "Danmark solgte flåten"
+      ],
+      "answer": 2,
+      "explanation": "Britene angrep København og tok den dansk-norske flåten for å hindre at Napoleon fikk den."
+    }
+  ]
+}
