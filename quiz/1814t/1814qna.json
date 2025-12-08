@@ -545,6 +545,32 @@
       ],
       "answer": 3,
       "explanation": "Grunnloven ble justert for unionen."
+    },
+    {
+      "qnID": 43,
+      "themeID": "1814",
+      "qn": "Hva var Hensikten med Kirkeeden (25 februar 1814)",
+      "options": [
+        "Å love troskap til kongen av Sverige",
+        "Å love troskap til kongen av Danmark",
+        "Å innføre kristendommen i Norge",
+        "Å avlegge ed om å forsvare et selvstendig Norge"
+      ],
+      "answer": 4,
+      "explanation": "Presten skulle oppfordre til edsavleggelse med ordene:<br>\n«Sværge I, at hævde Norges Sælvstendighed, og at vove Liv og Blod for det elskede Fædreland?»<br><br>\nPå dette skulle menigheten svare:<br>\n«Det sværge Vi, saa sandt hjælpe os Gud og hans hellige ord!»<br><br>\nhttps://no.wikipedia.org/wiki/Selvstendighetseden_1814"
+    },
+    {
+      "qnID": 44,
+      "themeID": "1814",
+      "qn": "Hvordan ble kirkeeden gjennomført?",
+      "options": [
+        "Alle ble kalt til kirken og avla ed",
+        "Soldater marsjerte til Eidsvoll og sverget der",
+        "Prester reiste rundt og samlet underskrifter",
+        "Folk møtte på torget og skrev under på en erklæring"
+      ],
+      "answer": 1,
+      "explanation": "Det ble også Valgt valgmenn til Riksforsamlingen som skulle skrive grunnloven"
     }
   ]
 }
