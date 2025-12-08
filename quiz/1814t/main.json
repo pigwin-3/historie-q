@@ -1,11 +1,11 @@
 {
   "themes": [
     {
-      "ID": 1,
+      "ID": 1814,
       "categoryID": "t1814",
       "Name": "1814",
       "about": "Kilder:<br>NDLA, Store norske leksikon, Stortinget.no, Norgeshistorie.no, Gry sine timer",
-      "qn": 0,
+      "qn": 1814,
       "file": "1814qna.json"
     }
   ]
